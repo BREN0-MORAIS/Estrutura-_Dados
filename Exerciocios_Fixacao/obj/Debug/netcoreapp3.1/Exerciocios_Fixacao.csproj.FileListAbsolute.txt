@@ -1,0 +1,13 @@
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.exe
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.deps.json
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.runtimeconfig.json
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.runtimeconfig.dev.json
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.dll
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.pdb
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.csprojAssemblyReference.cache
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.AssemblyInfoInputs.cache
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.AssemblyInfo.cs
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.dll
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.pdb
+C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.genruntimeconfig.cache
