@@ -168,11 +168,11 @@ namespace Exerciocios_Fixacao.Exercicios
              */
             try
             {
-                int[] num = new int[5];
-                int[] num2 = new int[5];
-                int[] calulo = new int[5];
+                int[] num = new int[11];
+                int[] num2 = new int[11];
+                int[] calulo = new int[11];
 
-                for (int i = 0; i <= 5; i++)
+                for (int i = 0; i <= 10; i++)
                 {
                     Console.WriteLine("Insira um Numero para o Vetor1 \n");
                     num[i] = int.Parse(Console.ReadLine());
@@ -183,7 +183,7 @@ namespace Exerciocios_Fixacao.Exercicios
                     //soma os vetores
                     calulo[i] = num[i] + num2[i];
 
-                    if (i >= 4)
+                    if (i >= 10)
                     {
                         foreach (int calc in calulo)
                         {
@@ -225,15 +225,15 @@ namespace Exerciocios_Fixacao.Exercicios
              */
             try
             {
-                int[] num = new int[4];
+                int[] num = new int[21];
                 int i = 0;
                 int soma = 0;
 
-                for (i = 0; i <= 3; i++)
+                for (i = 0; i <= 20; i++)
                 {
                     Console.WriteLine("Insira um Numero para o Vetor \n");
                     num[i] = int.Parse(Console.ReadLine());
-                    if (i == 3)
+                    if (i == 20)
                     {
                         int par = 0;
                         int impar = 0;
