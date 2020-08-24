@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BRENO MORAIS\\source\\repos\\Exerciocios\\Exerciocios_Fixacao\\Exerciocios_Fixacao.csproj": {}
+    "H:\\Desenvolvimento\\_Codigo-Fonte\\Estrutura _Dados\\Exerciocios_Fixacao\\Exerciocios_Fixacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BRENO MORAIS\\source\\repos\\Exerciocios\\Exerciocios_Fixacao\\Exerciocios_Fixacao.csproj": {
+    "H:\\Desenvolvimento\\_Codigo-Fonte\\Estrutura _Dados\\Exerciocios_Fixacao\\Exerciocios_Fixacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRENO MORAIS\\source\\repos\\Exerciocios\\Exerciocios_Fixacao\\Exerciocios_Fixacao.csproj",
+        "projectUniqueName": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estrutura _Dados\\Exerciocios_Fixacao\\Exerciocios_Fixacao.csproj",
         "projectName": "Exerciocios_Fixacao",
-        "projectPath": "C:\\Users\\BRENO MORAIS\\source\\repos\\Exerciocios\\Exerciocios_Fixacao\\Exerciocios_Fixacao.csproj",
+        "projectPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estrutura _Dados\\Exerciocios_Fixacao\\Exerciocios_Fixacao.csproj",
         "packagesPath": "C:\\Users\\BRENO MORAIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRENO MORAIS\\source\\repos\\Exerciocios\\Exerciocios_Fixacao\\obj\\",
+        "outputPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estrutura _Dados\\Exerciocios_Fixacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRENO MORAIS\\AppData\\Roaming\\NuGet\\NuGet.Config",

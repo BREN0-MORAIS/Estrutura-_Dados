@@ -11,3 +11,16 @@ C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\obj\Debug\net
 C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.dll
 C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.pdb
 C:\Users\BRENO MORAIS\source\repos\Exerciocios\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.genruntimeconfig.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.exe
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.deps.json
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.runtimeconfig.json
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.runtimeconfig.dev.json
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.dll
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\bin\Debug\netcoreapp3.1\Exerciocios_Fixacao.pdb
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.csprojAssemblyReference.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.AssemblyInfoInputs.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.AssemblyInfo.cs
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.csproj.CoreCompileInputs.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.dll
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.pdb
+H:\Desenvolvimento\_Codigo-Fonte\Estrutura _Dados\Exerciocios_Fixacao\obj\Debug\netcoreapp3.1\Exerciocios_Fixacao.genruntimeconfig.cache
